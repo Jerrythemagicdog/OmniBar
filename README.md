@@ -34,10 +34,10 @@ A glow animation will be displayed around an icon when it is activated.
 ## Visual Tweaks
 You can configure various visual tweaks such as size, border, glow, transparency, columns, and padding. OmniBar also includes Masque support.
 
-Visibility
+## Visibility
 Choose to display OmniBar in arenas, battlegrounds, and world combat.
 
-Configuration
+## Configuration
 To open the options panel, type /omnibar
 
 ![Imgur](https://i.imgur.com/sZdRg9z.png)
