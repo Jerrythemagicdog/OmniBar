@@ -1,5 +1,5 @@
 ## Interface: 30300
-## Title: OmniBar-EndlessTBC
+## Title: OmniBar
 ## Notes: Tracks enemy cooldowns
 ## Version: v10.15
 ## Author: Jordon, Modified by Distorted
@@ -7,6 +7,8 @@
 ## SavedVariables: OmniBarDB
 ## OptionalDeps: Masque, LibStub, CallbackHandler-1.0, Ace3, LibDualSpec-1.0
 ## X-Curse-Project-ID: 85814
+## X-Endless-Hosted: true
+## X-Endless-Version: 10.15
 
 Libs\!compatibility\embeds.xml
 Libs\LibStub\LibStub.lua
